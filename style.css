@@ -1,11 +1,18 @@
 ﻿.b-title {
     text-transform: uppercase;
-    color: yellow;
-    font-family: Cute Font;
-    font-weight:800;
-    font-size:158px;
+    color: rgb(56, 55, 55);
+    font-family: 'Abril Fatface', cursive; 
+    font-weight:600;
+    font-size:128px;
+}
+img{100%
 }
 
+.b-gallery{}
+
+.b-gallery_item{overflow:hidden;
+    height: 280px;
+}
 
 .o-container{width:100%;
              display:flex;
